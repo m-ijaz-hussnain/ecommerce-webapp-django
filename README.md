@@ -62,7 +62,7 @@ This project is a fully functional e-commerce web application built using Django
 
 ```
 git clone https://github.com/m-ijaz-hussnain/ecommerce-webapp-django.git
-cd eshop
+cd estore
 ```
 
 ### 2️⃣ Create a Virtual Environment
