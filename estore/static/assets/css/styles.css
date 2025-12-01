@@ -1,0 +1,18 @@
+.logo-s {
+    font-size: 3rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+.f-letter {
+    color: #266bf9; /* Blue color for the letter F */
+}
+
+.remaining-letters {
+    color: white; 
+}
+.remaining-letters1 {
+    font-weight: 500;
+    color: black; 
+}
