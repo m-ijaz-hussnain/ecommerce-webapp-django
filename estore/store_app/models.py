@@ -35,7 +35,7 @@ class Filter_Price(models.Model):
 
     price = models.CharField(choices=FILTER_PRICE, max_length = 60)
 
-
+# Product Model
 class Product(models.Model):
     name = models.CharField(max_length=200)
     category = models.ForeignKey(Category, on_delete=models.CASCADE)
@@ -64,3 +64,5 @@ class Product(models.Model):
 
     def __str__(self):
         return self.name
+
+
