@@ -146,6 +146,19 @@ Supported platforms:
 
 ---
 
+
+## 📎 Resources
+
+- 📊 Pages ScreenShort:
+![Home Page Screenshot](pages-ss/home.PNG)
+![Woman Product Page  Screenshot](pages-ss/womanpd.PNG)
+![Man Product Page  Screenshot](pages-ss/manpd.PNG)
+
+
+---
+
+
+
 ## 🤝 **Contributing**
 
 Pull requests are welcome. For major changes, please open an issue first.
